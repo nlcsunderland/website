@@ -6460,4 +6460,10 @@ b,strong{
 	 width:100%;
 	 position:absolute;
 }
+
+@media only screen and (min-width: 768px) {
+	.add-to-calender {
+	  display: none;
+	}
+  }
  
