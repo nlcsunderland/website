@@ -13,6 +13,7 @@ AboutUs - Live
 Services - Live
 Events - Live
 ContactUs - Live
+Gallery - Live
 ChurchLocator - Live
 Members - In Development
 ```
