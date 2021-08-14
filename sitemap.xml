@@ -9,43 +9,48 @@
 
 <url>
   <loc>https://nlcsunderland.uk/</loc>
-  <lastmod>2021-01-01T18:52:39+00:00</lastmod>
+  <lastmod>2021-08-14T18:58:41+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://nlcsunderland.uk/index</loc>
-  <lastmod>2021-01-01T18:52:39+00:00</lastmod>
+  <lastmod>2021-08-14T18:58:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://nlcsunderland.uk/aboutus</loc>
-  <lastmod>2021-01-01T18:56:04+00:00</lastmod>
+  <lastmod>2021-08-14T18:58:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://nlcsunderland.uk/services</loc>
-  <lastmod>2021-01-01T18:56:15+00:00</lastmod>
-  <priority>0.50</priority>
+  <lastmod>2021-08-14T18:58:41+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://nlcsunderland.uk/events</loc>
-  <lastmod>2021-01-01T18:56:09+00:00</lastmod>
-  <priority>0.50</priority>
+  <lastmod>2021-08-14T18:58:41+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://nlcsunderland.uk/gallery</loc>
-  <lastmod>2021-01-01T18:56:09+00:00</lastmod>
-  <priority>0.50</priority>
+  <lastmod>2021-08-14T18:58:41+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://nlcsunderland.uk/contactus</loc>
-  <lastmod>2021-01-01T18:55:49+00:00</lastmod>
-  <priority>0.50</priority>
+  <lastmod>2021-08-14T18:58:41+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://nlcsunderland.uk/churchlocator</loc>
-  <lastmod>2021-01-01T18:55:58+00:00</lastmod>
-  <priority>0.50</priority>
+  <lastmod>2021-08-14T18:58:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nlcsunderland.uk/vbs</loc>
+  <lastmod>2021-08-14T18:58:41+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
