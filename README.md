@@ -17,6 +17,7 @@ Events - Live
 ContactUs - Live
 Gallery - Live
 ChurchLocator - Live
+VBS 2021 - Live
 Members - In Development
 ```
 
